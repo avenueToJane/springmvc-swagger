@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="swaggermvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="swaggermvc.war">
+      <element id="artifact" artifact-name="swaggermvc:war exploded" />
+    </root>
+  </artifact>
+</component>
